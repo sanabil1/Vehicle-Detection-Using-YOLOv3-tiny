@@ -1,4 +1,4 @@
-# Vehicle Detection Using YOLOv3 tiny and TensorFlow
+# Vehicle Detection UsingYOLO based CNN with TensorFlow
 
 ## Table of Contents
 
